@@ -21,4 +21,5 @@ https://www.youtube.com/watch?v=vdmME5pX_ho
 # DJ Juancas
 - Advanced Music Bot, Enjoy the best fun and configuration of our bot, Have a good time with all the members of your server listening to music
 - [Invite](https://discord.com/api/oauth2/authorize?client_id=927932308588224522&permissions=8&scope=bot%20applications.commands)
+- [Support](https://discord.com/invite/krSwpbjfbw)
 - Creator: **Sammy.#3359**
