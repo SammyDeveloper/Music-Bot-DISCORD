@@ -1,0 +1,28 @@
+{
+  "files": {
+    "eventos/guildMemberRemove.js": [
+      {
+        "id": "2ed2de87-f247-471a-aa30-d38b23c3e2d2",
+        "line": 9,
+        "version": 1,
+        "index": 209
+      }
+    ],
+    "eventos_distube/addSong.js": [
+      {
+        "id": "e1e1b328-d7b6-4de1-806b-f7192be84a5e",
+        "line": 19,
+        "version": 1,
+        "index": 932
+      }
+    ],
+    "eventos_distube/playSong.js": [
+      {
+        "id": "9660bc57-9086-42f5-aef7-d0343dc36a47",
+        "line": 65,
+        "version": 234,
+        "index": 1718
+      }
+    ]
+  }
+}

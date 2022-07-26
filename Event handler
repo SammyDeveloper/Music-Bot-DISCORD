@@ -1,0 +1,13 @@
+const Discord = require("discord.js");
+const db = require("megadb");
+const mongoose = require("mongoose")
+const client = new Discord.Client({
+  intents: 4095
+})
+module.exports = {
+  name: "",
+async execute(client) {
+
+
+}
+}
