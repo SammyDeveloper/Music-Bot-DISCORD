@@ -21,3 +21,5 @@ Discord music bot with buttons. Play a best quality music.
 - [Invite](https://discord.com/api/oauth2/authorize?client_id=927932308588224522&permissions=8&scope=bot%20applications.commands)
 - [Support](https://discord.com/invite/krSwpbjfbw)
 - Creator: **Sammy.#3359**
+
+ATT: Sammy
